@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">COV1D VACCINE TRACKER</string>
+    <string name="tracker">Tracker</string>
+    <string name="location">Location</string>
+    <string name="photo">photo</string>
+    <string name="please_enter_the_details_below">Please enter the details below</string>
+    <string name="contact">Contact</string>
+    <string name="date_of_birth">Date of Birth</string>
+    <string name="gender_male">GENDER: MALE</string>
+    <string name="age_21">AGE: 21</string>
+    <string name="name_clive_dsouza">NAME: Clive Dsouza</string>
+</resources>
